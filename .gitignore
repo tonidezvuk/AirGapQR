@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.buildenv/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporary / backup files
+*.bak
+*.tmp
+*.swp
+*~
+*_backup.*
+*_BACKUP.*
+
+# Release archives
+*.zip
+*.tar.gz
+
+# Checksum sidecars generated for local release packaging
+*_SHA256.txt
